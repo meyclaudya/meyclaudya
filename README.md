@@ -10,5 +10,4 @@ Hey! I’m Mey Claudya, an Information Systems student who’s into web developm
 ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=meyclaudya&theme=shades-of-purple&hide_border=false)
+
